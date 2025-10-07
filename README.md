@@ -43,9 +43,9 @@ A peer-to-peer learning platform where users can exchange skills and connect wit
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedinusername)  
-- 📂 [GitHub](https://github.com/yourusername)  
-- ✉️ [Email Me](mailto:youremail@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kumar-aditya-437249326/)  
+- 📂 [GitHub](https://github.com/kumaradityaapril)  
+- ✉️ [Email Me](kumaraditya.bvn@gmail.com)
 
 ---
 
