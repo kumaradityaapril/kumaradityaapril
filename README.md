@@ -1,56 +1,61 @@
-# 👋 Hi, I'm Kumar Aditya
+# Hi 👋, I'm Kumar Aditya
 
-🎓 2nd-year BTech CSE Student at Polaris School of Technology (2024–2028)  
-💡 Full-Stack Development Enthusiast | Learning DSA in Java  
+🎓 Second-year Computer Science student  
+💻 Full Stack Developer (MERN, FastAPI)  
+🌱 Passionate about building real-world applications and learning backend systems  
+🌍 Open Source Contributor  
 
 ---
 
 ## 🚀 About Me
-I'm passionate about building real-world web applications and continuously learning new technologies.  
-Currently, I'm exploring the **MERN stack (MongoDB, Express.js, React, Node.js)** and strengthening my **DSA** skills on LeetCode.  
-I enjoy solving problems, building projects, and collaborating with others to create impactful solutions.
+- I enjoy building scalable web applications using modern frameworks
+- Strong interest in backend development, REST APIs, and system design basics
+- Actively learning through projects, open source, and hands-on practice
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Programming Language:** Java (for DSA)  
-- **Tools:** Git, GitHub, VS Code, Postman  
+**Languages**
+- Java, JavaScript, Python, TypeScript  
+
+**Frontend**
+- React, HTML, CSS  
+
+**Backend**
+- Node.js, Express.js, FastAPI  
+
+**Databases**
+- MongoDB, PostgreSQL  
+
+**Tools**
+- Git, GitHub, VS Code, Postman  
 
 ---
 
-## 💼 Featured Projects
+## 🧩 Projects
 
-### 🌐 [SkillSwap]
-A peer-to-peer learning platform where users can exchange skills and connect with mentors.  
-**Tech Used:** React.js, Node.js, Express.js, MongoDB  
-**Features:**  
-- User Authentication (JWT)  
-- Skill Posting & Filtering  
-- Responsive UI  
+### 🔹 SkillSwap – Peer-to-Peer Learning Platform
+- MERN-based platform to share and learn skills
+- Features include skill posts, filtering, authentication, and dashboards
+- Focused on clean APIs and real-world use cases
 
----
+### 🔹 Edu-Nexus – Learning Management System
+- LMS platform for students and instructors
+- Course creation, enrollment, and role-based access
+- Designed with scalability and usability in mind
 
-
-
-## 📈 Currently Learning
-- Advanced React (Hooks, Context API)  
-- RESTful API Development  
-- Problem Solving & Data Structures in Java
-- System Design
-- Python
+### 🔹 Course Enrollment API
+- Backend system built using FastAPI
+- Manages students, faculty, and admin workflows
+- Implemented RESTful APIs and database integration
 
 ---
 
+## 🌍 Open Source
+- Contributor to **NumFOCUS**
+- Worked on exploring issues and fixing bugs
+- Raised multiple pull requests with meaningful changes
 
+---
 
-
-⭐ *“Code. Learn. Build. Repeat.”*  
-
-
-<!---
-kumaradityaapril/kumaradityaapril is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ Always learning, building, and improving
