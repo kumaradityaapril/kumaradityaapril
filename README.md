@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kumar Aditya
 
-🎓 Second-year Computer Science student  
+🎓 Third-year Computer Science student  
 💻 Full Stack Developer (MERN, FastAPI)  
 🌱 Passionate about building real-world applications and learning backend systems  
 🌍 Open Source Contributor  
